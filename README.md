@@ -1,6 +1,7 @@
-### <p><blue> About me 
+#### About me 
 ---
  Hi :)
+ 
  I am currently working on my bachelors degree in Psycology and happy to learn more about coding 
 
 <!---
